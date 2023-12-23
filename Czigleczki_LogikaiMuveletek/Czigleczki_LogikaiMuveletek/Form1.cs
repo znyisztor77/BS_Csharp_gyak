@@ -38,7 +38,7 @@ namespace Czigleczki_LogikaiMuveletek
 
         private void button_exit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+             Application.Exit();
         }
     }
 }
