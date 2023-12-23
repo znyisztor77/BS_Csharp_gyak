@@ -27,8 +27,8 @@ namespace KorKeruletTerulet_WinForm
             double r = bekeres(textBox_sugar.Text);
             kerulet = 2* r * Math.PI;
             terulet = r * r * Math.PI;
-            label_kerulet.Text = ("A kör kerülete: "+ kerulet.ToString());
-            label_terulet.Text = ("A kör területe: " + terulet.ToString());
+            label_kerulet.Text = ("A kör kerülete: "+ Math.Round(kerulet, 4));
+            label_terulet.Text = ("A kör területe: " + Math.Round(terulet, 4));
 
         }
 
@@ -36,10 +36,10 @@ namespace KorKeruletTerulet_WinForm
         {
 
             double sugar;
-            while (!double.TryParse((textBox_sugar.Text) , out sugar))
+            if (!double.TryParse((textBox_sugar.Text) , out sugar))
             {
                 MessageBox.Show("Hibás bevitel");
-                Environment.Exit(0);  
+                textBox_sugar.Clear(); 
 
             }
             return sugar;
