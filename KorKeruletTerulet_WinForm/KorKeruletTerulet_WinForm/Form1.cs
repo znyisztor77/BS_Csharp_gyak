@@ -28,7 +28,7 @@ namespace KorKeruletTerulet_WinForm
             kerulet = 2* r * Math.PI;
             terulet = r * r * Math.PI;
             label_kerulet.Text = ("A kör kerülete: "+ Math.Round(kerulet, 4));
-            label_terulet.Text = ("A kör területe: " + Math.Round(terulet, 4));
+            label_terulet.Text = ("A kör területe: "+ Math.Round(terulet, 4));
 
         }
 
