@@ -51,22 +51,22 @@ végén adja meg az összes bevételt.
 
 # B. Szelekciók
 
->21. bekér egy számot és kiírja, hogy páros vagy páratlan.
-22. bekér a felhasználótól egy számot, majd kiírja az adott számról, hogy páros, páratlan, vagy
+>20. bekér egy számot és kiírja, hogy páros vagy páratlan.
+21. bekér a felhasználótól egy számot, majd kiírja az adott számról, hogy páros, páratlan, vagy
 nulla.
-23. egy tetszőleges számról mondjuk meg, hogy osztható-e maradék nélkül 3-mal!
->24. bekér két számot és a nagyobból kivonja a kisebbet. Az eredményt kiírja a képernyőre.
->25. Olvassa be egy hónap számát, majd írja ki, hogy melyik évszakban van az adott hónap.
->26. Kérjen be 2 számot és a nagyobbat ossza el a kisebbel! Az eredményt 2 tizedesjegy
+22. egy tetszőleges számról mondjuk meg, hogy osztható-e maradék nélkül 3-mal!
+>23. bekér két számot és a nagyobból kivonja a kisebbet. Az eredményt kiírja a képernyőre.
+>24. Olvassa be egy hónap számát, majd írja ki, hogy melyik évszakban van az adott hónap.
+>25. Kérjen be 2 számot és a nagyobbat ossza el a kisebbel! Az eredményt 2 tizedesjegy
 pontossággal írja ki! (Nullával nem lehet osztani!)
-27. bekér a felhasználótól két számot. A program döntse el, hogy az elsőként bekért számnak
+26. bekér a felhasználótól két számot. A program döntse el, hogy az elsőként bekért számnak
 osztója-e a másodikként bekért szám. Írja ki az osztás eredményét is.
->28. bekéri egy háromszög oldalainak a hosszát és kiírja, hogy szerkeszthető-e.
-29. bekéri a hét napjának számát és kiírja a hét napját szöveggel (1 -> hétfő)
-30. bekéri a hónap számát és kiírja szövegesen (6 -> június)
-31. Készítsünk programot, amely bekéri a víz hőmérsékletét, majd eldönti, hogy az milyen
+>27. bekéri egy háromszög oldalainak a hosszát és kiírja, hogy szerkeszthető-e.
+28. bekéri a hét napjának számát és kiírja a hét napját szöveggel (1 -> hétfő)
+29. bekéri a hónap számát és kiírja szövegesen (6 -> június)
+30. Készítsünk programot, amely bekéri a víz hőmérsékletét, majd eldönti, hogy az milyen
 halmazállapotú. A halmazállapot lehet folyékony, gőz, vagy jég.
-32. Bekéri a focicsapat által a fordulóban szerzett pontok számát és kiírja, mit játszott a csapat. (0
+31. Bekéri a focicsapat által a fordulóban szerzett pontok számát és kiírja, mit játszott a csapat. (0
 -> vereség, 1 -> döntetlen, 3 -> győzelem)
 32. Írjon egy programot, ami leosztályoz (betűvel és számmal) egy maximálisan 100 pontos
 dolgozatot az 50, 65, 80, 90 ponthatárok szerint! A határérték a jobb jegyhez tartozik. Ha a
