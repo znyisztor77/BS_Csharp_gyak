@@ -242,7 +242,7 @@ hiba:2 Ftkerekítési
 hiba:- Ftkerekítési
 hiba:2 Ft
 
-# Ünnepnapos (Gauss módszere)
+# I.2 Ünnepnapos (Gauss módszere)
 
 Húsvét vasárnapja minden évben a tavaszi napéjegyenlőséget követő holdtölte utáni első vasárnap,
 így dátuma március 22. és április 25. között változhat. Ennek meghatározására alkalmas a következő
