@@ -21,7 +21,7 @@ T = r2 ∗ π
 >8. bekéri egy négyzet oldalhosszát (a) és kiírja a kerületét és a területét 2 tizedes pontossággal.
 K = 4∗a
 T =a∗a
-9. bekéri egy téglalap oldalainak (a, b) a hosszúságát és kiírja a téglalap kerületét (K) és
+>9. bekéri egy téglalap oldalainak (a, b) a hosszúságát és kiírja a téglalap kerületét (K) és
 területét (T) 2 tizedes pontossággal!
 K = 2 ∗ (a + b)
 T =a∗b
