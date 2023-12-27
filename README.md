@@ -25,7 +25,7 @@ T =a∗a
 területét (T) 2 tizedes pontossággal!
 K = 2 ∗ (a + b)
 T =a∗b
-10. bekéri egy kocka oldalhosszúságát (a) és kiírja a kocka felszínét és térfogatát 2 tizedes
+>10. bekéri egy kocka oldalhosszúságát (a) és kiírja a kocka felszínét és térfogatát 2 tizedes
 pontossággal! F = 6 ∗ a2 ; T = a3
 11. Bekéri egy téglatest oldalainak a hosszát (a, b, c) és kiírja a téglatest felszínét (F) és
 térfogatát (T) 3 tizedes pontossággal.
