@@ -2,23 +2,23 @@
 
 # A. Egyszerű adat ki- és bevitel
 
->1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
->2. bekér két egész számot (a, b), majd kiszámolja a két szám szorzatát és hányadosát 2 tizedes
+1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
+2. bekér két egész számot (a, b), majd kiszámolja a két szám szorzatát és hányadosát 2 tizedes
 pontossággal!
->3. Deciliterben megadott térfogatot bontsunk hektoliter, liter, deciliter egységekre!
->4. mm-ben megadott értéket bontsunk méterre, deciméterre, centiméterre, milliméterre!
->5. bekéri egy kör sugarát és kiírja a kerületét és a területét 4 tizedes pontossággal.
+3. Deciliterben megadott térfogatot bontsunk hektoliter, liter, deciliter egységekre!
+4. mm-ben megadott értéket bontsunk méterre, deciméterre, centiméterre, milliméterre!
+5. bekéri egy kör sugarát és kiírja a kerületét és a területét 4 tizedes pontossággal.
 K =2∗r∗π
 T = r2 ∗ π
->6. Celsiusban megadott értéket (°C) átvált Fahrenheitre 2 tizedes pontossággal.
+6. Celsiusban megadott értéket (°C) átvált Fahrenheitre 2 tizedes pontossággal.
 9
 °F = °C* + 32
 5
->7. Fahrenheitben megadott értéket (°F) átvált Celsiusra 2 tizedes pontossággal.
+7. Fahrenheitben megadott értéket (°F) átvált Celsiusra 2 tizedes pontossággal.
 5
 °C = (°F − 32) ∗
 9
->8. bekéri egy négyzet oldalhosszát (a) és kiírja a kerületét és a területét 2 tizedes pontossággal.
+8. bekéri egy négyzet oldalhosszát (a) és kiírja a kerületét és a területét 2 tizedes pontossággal.
 K = 4∗a
 T =a∗a
 9. bekéri egy téglalap oldalainak (a, b) a hosszúságát és kiírja a téglalap kerületét (K) és
