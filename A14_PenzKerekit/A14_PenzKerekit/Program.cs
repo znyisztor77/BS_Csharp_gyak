@@ -29,7 +29,7 @@ namespace A14_PenzKerekit
         {
            
             double kerekitettOsszeg = Math.Round(penz / 5)*5;
-            double maradekos = penz % 5;
+           
             Console.WriteLine("Kerkitett összeg: "+kerekitettOsszeg);
             
         }
