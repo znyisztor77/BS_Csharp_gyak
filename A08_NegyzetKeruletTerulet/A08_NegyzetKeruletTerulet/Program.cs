@@ -12,14 +12,14 @@ namespace A08_NegyzetKeruletTerulet
         {
             Console.WriteLine("Négyzet kerület, terület számítása.");
             double oldal;
-            oldal = sugarBeker("Kérem add meg négyzet oldalhosszát: ");
+            oldal = oldalBeker("Kérem add meg négyzet oldalhosszát: ");
             double kerulet = 4* oldal;
             double terulet = oldal * oldal;
             Console.WriteLine($"A négyzet kerülete: {Math.Round(kerulet, 2)}");
             Console.Write($"A négyzet területe: {Math.Round(terulet, 2)}");
             Console.ReadKey();
         }
-        private static double sugarBeker(string v)
+        private static double oldalBeker(string v)
         {
             double oldal;
             Console.Write(v);
