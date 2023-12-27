@@ -2,23 +2,23 @@
 
 # A. Egyszerű adat ki- és bevitel
 
-1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
-2. bekér két egész számot (a, b), majd kiszámolja a két szám szorzatát és hányadosát 2 tizedes
+>1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
+>2. bekér két egész számot (a, b), majd kiszámolja a két szám szorzatát és hányadosát 2 tizedes
 pontossággal!
-3. Deciliterben megadott térfogatot bontsunk hektoliter, liter, deciliter egységekre!
-4. mm-ben megadott értéket bontsunk méterre, deciméterre, centiméterre, milliméterre!
-5. bekéri egy kör sugarát és kiírja a kerületét és a területét 4 tizedes pontossággal.
+>3. Deciliterben megadott térfogatot bontsunk hektoliter, liter, deciliter egységekre!
+>4. mm-ben megadott értéket bontsunk méterre, deciméterre, centiméterre, milliméterre!
+>5. bekéri egy kör sugarát és kiírja a kerületét és a területét 4 tizedes pontossággal.
 K =2∗r∗π
 T = r2 ∗ π
-6. Celsiusban megadott értéket (°C) átvált Fahrenheitre 2 tizedes pontossággal.
+>6. Celsiusban megadott értéket (°C) átvált Fahrenheitre 2 tizedes pontossággal.
 9
 °F = °C* + 32
 5
-7. Fahrenheitben megadott értéket (°F) átvált Celsiusra 2 tizedes pontossággal.
+>7. Fahrenheitben megadott értéket (°F) átvált Celsiusra 2 tizedes pontossággal.
 5
 °C = (°F − 32) ∗
 9
-8. bekéri egy négyzet oldalhosszát (a) és kiírja a kerületét és a területét 2 tizedes pontossággal.
+>8. bekéri egy négyzet oldalhosszát (a) és kiírja a kerületét és a területét 2 tizedes pontossággal.
 K = 4∗a
 T =a∗a
 9. bekéri egy téglalap oldalainak (a, b) a hosszúságát és kiírja a téglalap kerületét (K) és
@@ -41,32 +41,32 @@ F = 2 ∗ π ∗ r ∗ (r + m)
 közepét!
 16. Írjunk programot, amely bekéri „A” és „B” pont koordinátáit, majd kiszámolja azok távolságát.
 D = √(b1 − a1 ) ∗ (b1 − a1 ) + (b2 − a2 ) ∗ (b2 − a2 )
-17. Egy pénztáros a napi bevételének 5%-át megkapja jutalomként. Kérje be a napi bevételt, és
+>17. Egy pénztáros a napi bevételének 5%-át megkapja jutalomként. Kérje be a napi bevételt, és
 írja a képernyőre mennyi a jutalom! A jutalmat kerekítse egész értékre!
 18. Adott egy derékszögű háromszög a és b befogója. Határozza meg ennek ismeretében az
 átfogót! (c = √a2 + b 2)
-19. Készítsen programot, amely segít a pénztárosnak a papírpénzek értékének megszámolásánál!
+>19. Készítsen programot, amely segít a pénztárosnak a papírpénzek értékének megszámolásánál!
 Kérje be melyik bankjegyből (500, 1000, 2000, 5000, 10000, 20000) hány darab van, és a
 végén adja meg az összes bevételt.
 
 # B. Szelekciók
 
-21. bekér egy számot és kiírja, hogy páros vagy páratlan.
-22. bekér a felhasználótól egy számot, majd kiírja az adott számról, hogy páros, páratlan, vagy
+>20. bekér egy számot és kiírja, hogy páros vagy páratlan.
+21. bekér a felhasználótól egy számot, majd kiírja az adott számról, hogy páros, páratlan, vagy
 nulla.
-23. egy tetszőleges számról mondjuk meg, hogy osztható-e maradék nélkül 3-mal!
-24. bekér két számot és a nagyobból kivonja a kisebbet. Az eredményt kiírja a képernyőre.
-25. Olvassa be egy hónap számát, majd írja ki, hogy melyik évszakban van az adott hónap.
-26. Kérjen be 2 számot és a nagyobbat ossza el a kisebbel! Az eredményt 2 tizedesjegy
+22. egy tetszőleges számról mondjuk meg, hogy osztható-e maradék nélkül 3-mal!
+>23. bekér két számot és a nagyobból kivonja a kisebbet. Az eredményt kiírja a képernyőre.
+>24. Olvassa be egy hónap számát, majd írja ki, hogy melyik évszakban van az adott hónap.
+>25. Kérjen be 2 számot és a nagyobbat ossza el a kisebbel! Az eredményt 2 tizedesjegy
 pontossággal írja ki! (Nullával nem lehet osztani!)
-27. bekér a felhasználótól két számot. A program döntse el, hogy az elsőként bekért számnak
+26. bekér a felhasználótól két számot. A program döntse el, hogy az elsőként bekért számnak
 osztója-e a másodikként bekért szám. Írja ki az osztás eredményét is.
-28. bekéri egy háromszög oldalainak a hosszát és kiírja, hogy szerkeszthető-e.
-29. bekéri a hét napjának számát és kiírja a hét napját szöveggel (1 -> hétfő)
-30. bekéri a hónap számát és kiírja szövegesen (6 -> június)
-31. Készítsünk programot, amely bekéri a víz hőmérsékletét, majd eldönti, hogy az milyen
+>27. bekéri egy háromszög oldalainak a hosszát és kiírja, hogy szerkeszthető-e.
+28. bekéri a hét napjának számát és kiírja a hét napját szöveggel (1 -> hétfő)
+29. bekéri a hónap számát és kiírja szövegesen (6 -> június)
+30. Készítsünk programot, amely bekéri a víz hőmérsékletét, majd eldönti, hogy az milyen
 halmazállapotú. A halmazállapot lehet folyékony, gőz, vagy jég.
-32. Bekéri a focicsapat által a fordulóban szerzett pontok számát és kiírja, mit játszott a csapat. (0
+31. Bekéri a focicsapat által a fordulóban szerzett pontok számát és kiírja, mit játszott a csapat. (0
 -> vereség, 1 -> döntetlen, 3 -> győzelem)
 32. Írjon egy programot, ami leosztályoz (betűvel és számmal) egy maximálisan 100 pontos
 dolgozatot az 50, 65, 80, 90 ponthatárok szerint! A határérték a jobb jegyhez tartozik. Ha a
@@ -82,14 +82,14 @@ melyik síknegyedben van!
 + 
 # C. Ciklusok
 
-1. kiírja 10 és 20 között az egész számokat.
-2. kiírja 10 és 30 között a páros számokat
-3. bekér két számot és kiírja kettő közötti páros számokat!
-4. Nem negatív egész számról határozza meg a program, hogy hány jegyű!
+>1. kiírja 10 és 20 között az egész számokat.
+>2. kiírja 10 és 30 között a páros számokat
+>3. bekér két számot és kiírja kettő közötti páros számokat!
+>4. Nem negatív egész számról határozza meg a program, hogy hány jegyű!
 5. Készítsünk programot, amely 15 darab ’*’-ot ír ki a képernyőre egy sorba!
-6. Írassa ki a számokat 1-től 20-ig és mellé a négyzetüket is!
-7. Egy bekért számot kiír nullától növekvő, mellette lévő oszlopban nulláig csökkenő sorrendben.
-8. Számítsa ki az éves középhőmérsékletet miután a felhasználó megadta a havi
+>6. Írassa ki a számokat 1-től 20-ig és mellé a négyzetüket is!
+>7. Egy bekért számot kiír nullától növekvő, mellette lévő oszlopban nulláig csökkenő sorrendben.
+>8. Számítsa ki az éves középhőmérsékletet miután a felhasználó megadta a havi
 középhőmérsékleteket.
 9. bekér egy számot és kiírja az összes osztóját!
 10. Bekér két számot és kiírja az első szám második számnak megfelelő hatványát!
@@ -98,7 +98,7 @@ mellé 6 karakternyi helyet lefoglalva, de egy sorban csak 8 szám legyen! A ki�
 meg hány darab pozitív szám van!
 12. Írjunk programot, amely bekér két egész számot (a, n) a billentyűzetről és kiírja a hatványt
 (an ).
-13. Írassa ki 99-től csökkenő sorrendben az összes pozitív, 3-al osztható pozitív egész számot!
+>13. Írassa ki 99-től csökkenő sorrendben az összes pozitív, 3-al osztható pozitív egész számot!
 14. addig kér be egész számokat, amíg nullát nem kap. Ekkor kiírja, hogy „elég” és megáll.
 15. 1bekér egy számot és kiírja a faktoriálisát
 16. bekér egy számot és kiírja a megadott szám osztóit, illetve, hogy az adott számnak hány osztója
@@ -124,8 +124,8 @@ az első sor utolsó csillagához!
 
 # D. Tömbök
 
-28. Bekér 5 db számot és kiírja, ezek közül a legnagyobbat.
-35. Feltölt egy 10 elemű tömböt 1 és 100 közötti egészekkel és kiírja az átlagot meghaladó
+>27. Bekér 5 db számot és kiírja, ezek közül a legnagyobbat.
+>35. Feltölt egy 10 elemű tömböt 1 és 100 közötti egészekkel és kiírja az átlagot meghaladó
 értékeket.
 36. Feltölt egy 10 elemű tömböt 100 és 200 közötti egészekkel és kiírja a három legnagyobb
 értéket.
@@ -138,9 +138,9 @@ A feladatok megoldásánál CSAK a ciklusok gyakorlása a cél, nem kell optimal
 legnagyobb.
 39. Feltölt egy 10 elemű tömböt 20 és 60 közötti egészekkel és kiírja, ezek közöl hányadik a
 legnagyobb és a legkisebb és mi az értékük.
-40. Feltölt egy 10 elemű tömböt 1 és 100 közötti egészekkel és kiírja a benne lévő páros és páratlan
+>40. Feltölt egy 10 elemű tömböt 1 és 100 közötti egészekkel és kiírja a benne lévő páros és páratlan
 számok számát!
-41. Számítsa ki a gép 10 véletlen szám összegét, szorzatát, átlagát és írjuk ki a képernyőre!
+>41. Számítsa ki a gép 10 véletlen szám összegét, szorzatát, átlagát és írjuk ki a képernyőre!
 42. Feltölt egy N elemű tömböt egy és száz közé eső véletlen számokkal. A tömb méretét a
 felhasználó határozza meg! Feltöltés után a tömb elemeit a program írja ki a képernyőre!
 Másolja át a program egy másik tömbbe a páros számokat!
@@ -148,7 +148,7 @@ Másolja át a program egy másik tömbbe a páros számokat!
 felhasználó határozza meg! Feltöltés után a tömb elemeit a program írja ki a képernyőre!
 Számolja meg a program, hogy hány páros számot tartalmazott a tömb! (megszámlálás tétele)
 Írja ki a program a páros elemek számát! Írja ki a program a páros elemeket!
-44. Generáljon ötös lottószám tippeket! Biztosítsa, hogy nem lehet 2 azonos szám a kihúzottak
+>44. Generáljon ötös lottószám tippeket! Biztosítsa, hogy nem lehet 2 azonos szám a kihúzottak
 között!
 
 # E. Többdimenziós tömbök (mátrixok)
@@ -213,12 +213,12 @@ k=1
 
 # H. Szövegfájlok
 
-64. A felhasználótól kapott szöveget kiírja a kaptam.txt fájlba.
-65. A kaptam.txt szövegfájl tartalmát megjeleníti a képernyőn.
+>64. A felhasználótól kapott szöveget kiírja a kaptam.txt fájlba.
+>65. A kaptam.txt szövegfájl tartalmát megjeleníti a képernyőn.
 66.
 
 # I. Összetett feladatok
-# I.1 Címletezés
+># I.1 Címletezés
 
 Bekér egy összeget, majd kiírja, hogy azt hogyan lehet a lehető legkevesebb fizetőeszközből
 összeállítani.
@@ -242,7 +242,7 @@ hiba:2 Ftkerekítési
 hiba:- Ftkerekítési
 hiba:2 Ft
 
-# Ünnepnapos (Gauss módszere)
+# I.2 Ünnepnapos (Gauss módszere)
 
 Húsvét vasárnapja minden évben a tavaszi napéjegyenlőséget követő holdtölte utáni első vasárnap,
 így dátuma március 22. és április 25. között változhat. Ennek meghatározására alkalmas a következő
