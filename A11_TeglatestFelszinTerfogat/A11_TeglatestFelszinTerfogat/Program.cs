@@ -14,9 +14,32 @@ namespace A11_TeglatestFelszinTerfogat
             double bOldal;
             double cOldal;
             Console.WriteLine("Kérem add meg a téglatest oldalainak hosszát.");
-            oldalBeker("Kérem az a oldal hosszát:");
+            aOldal =oldalBeker("Kérem az A oldal hosszát: ");
+            bOldal = oldalBeker("Kérem az B oldal hosszát: ");
+            cOldal = oldalBeker("Kérem az C oldal hosszát: ");
+            Console.WriteLine($"A téglasest felszíne: {felszinSzamol(aOldal,bOldal,cOldal)}");
+            Console.WriteLine($"A téglasest térfogata: {terfogatSzamol(aOldal, bOldal, cOldal)}");
+            Console.ReadKey();
+            
 
         }
+
+        private static double felszinSzamol(double aOldal, double bOldal, double cOldal)
+        {
+            double felszin;
+            felszin = (2*(aOldal*bOldal))+ (2 * (aOldal * cOldal))+ (2 * (bOldal * cOldal));
+            return felszin;
+        }
+
+        private static double terfogatSzamol(double aOldal, double bOldal, double cOldal)
+        {
+            double terfogat;
+            terfogat= aOldal*bOldal*cOldal;
+            return terfogat;
+        }
+
+        
+
         private static double oldalBeker(string v)
         {
             double oldal;
