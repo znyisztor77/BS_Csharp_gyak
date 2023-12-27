@@ -2,7 +2,7 @@
 
 # A. Egyszerű adat ki- és bevitel
 
-1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
+>1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
 2. bekér két egész számot (a, b), majd kiszámolja a két szám szorzatát és hányadosát 2 tizedes
 pontossággal!
 3. Deciliterben megadott térfogatot bontsunk hektoliter, liter, deciliter egységekre!
