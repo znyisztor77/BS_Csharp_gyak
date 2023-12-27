@@ -2,23 +2,23 @@
 
 # A. Egyszerű adat ki- és bevitel
 
-1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
-2. bekér két egész számot (a, b), majd kiszámolja a két szám szorzatát és hányadosát 2 tizedes
+>1. bekér két egész számot (a, b), majd kiszámolja a két szám összegét, különbségét.
+>2. bekér két egész számot (a, b), majd kiszámolja a két szám szorzatát és hányadosát 2 tizedes
 pontossággal!
-3. Deciliterben megadott térfogatot bontsunk hektoliter, liter, deciliter egységekre!
-4. mm-ben megadott értéket bontsunk méterre, deciméterre, centiméterre, milliméterre!
-5. bekéri egy kör sugarát és kiírja a kerületét és a területét 4 tizedes pontossággal.
+>3. Deciliterben megadott térfogatot bontsunk hektoliter, liter, deciliter egységekre!
+>4. mm-ben megadott értéket bontsunk méterre, deciméterre, centiméterre, milliméterre!
+>5. bekéri egy kör sugarát és kiírja a kerületét és a területét 4 tizedes pontossággal.
 K =2∗r∗π
 T = r2 ∗ π
-6. Celsiusban megadott értéket (°C) átvált Fahrenheitre 2 tizedes pontossággal.
+>6. Celsiusban megadott értéket (°C) átvált Fahrenheitre 2 tizedes pontossággal.
 9
 °F = °C* + 32
 5
-7. Fahrenheitben megadott értéket (°F) átvált Celsiusra 2 tizedes pontossággal.
+>7. Fahrenheitben megadott értéket (°F) átvált Celsiusra 2 tizedes pontossággal.
 5
 °C = (°F − 32) ∗
 9
-8. bekéri egy négyzet oldalhosszát (a) és kiírja a kerületét és a területét 2 tizedes pontossággal.
+>8. bekéri egy négyzet oldalhosszát (a) és kiírja a kerületét és a területét 2 tizedes pontossággal.
 K = 4∗a
 T =a∗a
 9. bekéri egy téglalap oldalainak (a, b) a hosszúságát és kiírja a téglalap kerületét (K) és
@@ -41,11 +41,11 @@ F = 2 ∗ π ∗ r ∗ (r + m)
 közepét!
 16. Írjunk programot, amely bekéri „A” és „B” pont koordinátáit, majd kiszámolja azok távolságát.
 D = √(b1 − a1 ) ∗ (b1 − a1 ) + (b2 − a2 ) ∗ (b2 − a2 )
-17. Egy pénztáros a napi bevételének 5%-át megkapja jutalomként. Kérje be a napi bevételt, és
+>17. Egy pénztáros a napi bevételének 5%-át megkapja jutalomként. Kérje be a napi bevételt, és
 írja a képernyőre mennyi a jutalom! A jutalmat kerekítse egész értékre!
 18. Adott egy derékszögű háromszög a és b befogója. Határozza meg ennek ismeretében az
 átfogót! (c = √a2 + b 2)
-19. Készítsen programot, amely segít a pénztárosnak a papírpénzek értékének megszámolásánál!
+>19. Készítsen programot, amely segít a pénztárosnak a papírpénzek értékének megszámolásánál!
 Kérje be melyik bankjegyből (500, 1000, 2000, 5000, 10000, 20000) hány darab van, és a
 végén adja meg az összes bevételt.
 
