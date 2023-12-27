@@ -4,22 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace A09_TeglalapKeruletTerulet
+namespace A11_TeglatestFelszinTerfogat
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Téglalap kerület, terület számítása.");
             double aOldal;
             double bOldal;
-            aOldal = oldalBeker("Kérem add meg a téglalap egyik oldalának hosszát: ");
-            bOldal = oldalBeker("Kérem add meg a téglalap másik oldalának hosszát: ");
-            double kerulet = 2*(aOldal+bOldal);
-            double terulet = aOldal * bOldal;
-            Console.WriteLine($"A négyzet kerülete: {Math.Round(kerulet, 2)}");
-            Console.Write($"A négyzet területe: {Math.Round(terulet, 2)}");
-            Console.ReadKey();
+            double cOldal;
+            Console.WriteLine("Kérem add meg a téglatest oldalainak hosszát.");
+            oldalBeker("Kérem az a oldal hosszát:");
+
         }
         private static double oldalBeker(string v)
         {
