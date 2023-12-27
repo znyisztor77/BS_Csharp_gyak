@@ -31,7 +31,7 @@ pontossággal! F = 6 ∗ a2 ; T = a3
 térfogatát (T) 3 tizedes pontossággal.
 F =2∗a∗b+2∗a∗c+2∗b∗c
 T =a∗b∗c
-12. Kérje be egy henger sugarát (r) és magasságát (m), majd számítsa ki a henger felszínét (F) és
+>12. Kérje be egy henger sugarát (r) és magasságát (m), majd számítsa ki a henger felszínét (F) és
 térfogatát (T)! Az eredményt írja ki 2 tizedes pontossággal a képernyőre!
 T =π∗r∗m
 F = 2 ∗ π ∗ r ∗ (r + m)
