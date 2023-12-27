@@ -12,7 +12,7 @@ namespace A10_KockaFelszinTerfogat
         {
             Console.WriteLine("Négyzet felszín, térfogat számítása.");
             double oldal;
-            oldal = sugarBeker("Kérem add meg négyzet oldalhosszát: ");
+            oldal = oldalBeker("Kérem add meg négyzet oldalhosszát: ");
             double felszin = 6 * Math.Pow(oldal, 2);
             double terfogat = Math.Pow(oldal, 3);
             Console.WriteLine($"A négyzet felszine: {Math.Round(felszin, 2)}");
@@ -20,7 +20,7 @@ namespace A10_KockaFelszinTerfogat
             Console.ReadKey();
         }
 
-        private static double sugarBeker(string v)
+        private static double oldalBeker(string v)
         {
             double oldal;
             Console.Write(v);
