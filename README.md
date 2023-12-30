@@ -35,7 +35,7 @@ T =a∗b∗c
 térfogatát (T)! Az eredményt írja ki 2 tizedes pontossággal a képernyőre!
 T =π∗r∗m
 F = 2 ∗ π ∗ r ∗ (r + m)
-13.
+>13.
 >14. Bekér egy pénzösszeget és a legkisebb fizetőeszköznek (5 Ft) megfelelőre kerekíti.
 >15. Írjon programot, mely beolvas egy számpárt a billentyűzetről, majd kiírja a két szám számtani
 közepét!
