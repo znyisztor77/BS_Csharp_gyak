@@ -35,11 +35,11 @@ T =a∗b∗c
 térfogatát (T)! Az eredményt írja ki 2 tizedes pontossággal a képernyőre!
 T =π∗r∗m
 F = 2 ∗ π ∗ r ∗ (r + m)
-13.
-14. Bekér egy pénzösszeget és a legkisebb fizetőeszköznek (5 Ft) megfelelőre kerekíti.
-15. Írjon programot, mely beolvas egy számpárt a billentyűzetről, majd kiírja a két szám számtani
+>13.
+>14. Bekér egy pénzösszeget és a legkisebb fizetőeszköznek (5 Ft) megfelelőre kerekíti.
+>15. Írjon programot, mely beolvas egy számpárt a billentyűzetről, majd kiírja a két szám számtani
 közepét!
-16. Írjunk programot, amely bekéri „A” és „B” pont koordinátáit, majd kiszámolja azok távolságát.
+>16. Írjunk programot, amely bekéri „A” és „B” pont koordinátáit, majd kiszámolja azok távolságát.
 D = √(b1 − a1 ) ∗ (b1 − a1 ) + (b2 − a2 ) ∗ (b2 − a2 )
 >17. Egy pénztáros a napi bevételének 5%-át megkapja jutalomként. Kérje be a napi bevételt, és
 írja a képernyőre mennyi a jutalom! A jutalmat kerekítse egész értékre!
