@@ -43,7 +43,7 @@ közepét!
 D = √(b1 − a1 ) ∗ (b1 − a1 ) + (b2 − a2 ) ∗ (b2 − a2 )
 >17. Egy pénztáros a napi bevételének 5%-át megkapja jutalomként. Kérje be a napi bevételt, és
 írja a képernyőre mennyi a jutalom! A jutalmat kerekítse egész értékre!
-18. Adott egy derékszögű háromszög a és b befogója. Határozza meg ennek ismeretében az
+>18. Adott egy derékszögű háromszög a és b befogója. Határozza meg ennek ismeretében az
 átfogót! (c = √a2 + b 2)
 >19. Készítsen programot, amely segít a pénztárosnak a papírpénzek értékének megszámolásánál!
 Kérje be melyik bankjegyből (500, 1000, 2000, 5000, 10000, 20000) hány darab van, és a
